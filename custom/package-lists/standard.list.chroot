@@ -1,0 +1,17 @@
+! Packages Priority standard
+mono-runtime
+python-pip
+bc
+wicd-curses
+arp-scan
+passing-the-hash
+netdiscover
+proxychains
+tshark
+python-openssl
+wmis
+hashid
+python-pyside
+mitmproxy
+dh-autoreconf
+terminator
